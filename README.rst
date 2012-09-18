@@ -1,15 +1,15 @@
-About
-=====
+Acerca de 
+==========
 
 `Postgres Guide (http://www.postgresguide.com) <http://www.postgresguide.com>`_ 
-is intended to be a resource for both novice and knowledgable users of Postgres. 
-It intends to cover guides on:
+intenta ser un recurso para ambos usuarios: novatos y  conocedores de Postgres.
+Intenta cubrir guías sobre:
 
-* Getting Postgres setup
-* Creating and maintaining the database
-* Means for accessing your data
-* Special features within Postgres specifically
+* Instalando Postgres
+* Creando y manteniendo la base de datos
+* Medios para acceder a tus datos
+* Atributos específicos dentro de Postgres
 
   - Window Functions
   - Common Table Expressions
-  - Extensions
+  - Extensiones
