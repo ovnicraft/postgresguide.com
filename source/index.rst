@@ -27,8 +27,7 @@ como `Heroku Postgres <http://postgres.heroku.com>`_.
 Algo de Historia
 ~~~~~~~~~~~~~~~~
 
-Postgres ha tenido mucha atención en los últimos años. Ha acelerado su paso
-pace, mientras que otros RDMS's han disminuido en releases. Aunque
+Postgres ha tenido mucha atención en los últimos años. Ha acelerado su paso, mientras que otros RDMS's han disminuido en releases. Aunque
 `Postgre SQL/PostgreSQL/Postgres <http://www.postgresql.org/>`_ tiene una larga historia en base de datos,
 con su nombre procedente de las primeras bases de datos Ingres
 (Post ingres = Postgres) y su implementación empezo en `1986 <http://www.postgresql.org/docs/8.4/static/history.html>`_.
