@@ -3,37 +3,37 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Postgres Guide
-==============
+Guía de Postgres
+================
 
-We here are very big fans of Postgres as a database and believe
-it is often the best database for the job. For many though, working with and
-maintaining Postgres involves a steep learning curve.
-This guide is designed as an aid for beginners and experienced users to
-find specific tips and explore tools available within Postgres.
+Aquí somos grandes fans de Postgres como base de datos y creemos que a menudo
+es la mejor base de datos para el trabajo. Aunque para muchos trabajar y mantener
+Postgres implica una curva de aprendizaje empinada.
+Esta guía esta diseñada como ayuda para principiantes y usuarios experimientados que buscan
+consejos específicos y explorar herramientas disponibles dentro de Postgres.
 
-If you want to take the quick & painless approach instead, there are great 
-services available such as `Heroku Postgres <http://postgres.heroku.com>`_.
+Si deseas tomar el enfoque menos doloroso y fácil, hay un estupendos servicios
+como `Heroku Postgres <http://postgres.heroku.com>`_.
 
-.. note::
-    This still is still under rapid development. Please send any suggestions
-    (or requests) to craig.kerstiens@gmail.com. If you're interested in helping 
-    to maintain this document please hop over to 
-    `github <https://github.com/craigkerstiens/postgresguide.com>`_ and
-    contribute. To follow updates to the site check out our twitter account 
+.. nota::
+    Esto aún bajo un rápido desarrollo. Por favor enviar cualquier sugerencia o petición.
+    (or requests) a craig.kerstiens@gmail.com. Si estas interesado en ayudar a mantener
+    este documento por favor dirigite a
+    `github <https://github.com/craigkerstiens/postgresguide.com>`_ y
+    contribuye. Para seguir las actualizaciones de este sitio revisa nuestra cuenta de twitter
     `PostgresGuide <http://www.twitter.com/postgresguide>`_.
 
 
-Some History
-~~~~~~~~~~~~
+Algo de Historia
+~~~~~~~~~~~~~~~~
 
-Postgres has gotten much more attention in recent years. It has accelerated its
-pace, meanwhile other RDMS's have slowed in releases. Though 
-`Postgre SQL/PostgreSQL/Postgres <http://www.postgresql.org/>`_ has a very long history in databases, 
-with its very name coming from one of the earliest databases Ingres 
-(Post ingres = Postgres) and its own implementation beginning in `1986 <http://www.postgresql.org/docs/8.4/static/history.html>`_.
+Postgres ha tenido mucha atención en los últimos años. Ha acelerado su paso
+pace, mientras que otros RDMS's han disminuido en releases. Aunque
+`Postgre SQL/PostgreSQL/Postgres <http://www.postgresql.org/>`_ tiene una larga historia en base de datos,
+con su nombre procedente de las primeras bases de datos Ingres
+(Post ingres = Postgres) y su implementación empezo en `1986 <http://www.postgresql.org/docs/8.4/static/history.html>`_.
 
-Guide:
+Guía:
 
 .. toctree::
    :maxdepth: 2
