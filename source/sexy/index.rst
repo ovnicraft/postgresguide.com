@@ -5,3 +5,5 @@ Postgres the Sexy Parts
    :maxdepth: 1
 
    hstore
+   arrays
+   enums
