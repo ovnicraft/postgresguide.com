@@ -1,9 +1,8 @@
-Setup
-=====
+Instalación
+===========
 
-Setup is often one of the hardest parts for new comers to Postgres. The below 
-will cover first installing and in the future managing and maintaining your 
-Postgres instance.
+La instalación es a menudo la parte más dificil para quienes son nuevos en Postgres. Lo siguiente
+cubrirá primero la instalación y a futuro la gestión y mantenimiento de tu instancia de Postgres.
 
 
 .. toctree::
