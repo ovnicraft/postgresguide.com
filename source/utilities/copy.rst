@@ -1,8 +1,8 @@
-Copy
-####
+Copiar
+######
 
-What is copy
-------------
+Qué es copiar
+-------------
 
 Postgres ships with several great utilities for moving your data around. The
 obvious ones are pg_dump and pg_restore for of course database backups and 
