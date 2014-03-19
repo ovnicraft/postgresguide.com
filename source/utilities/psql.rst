@@ -1,37 +1,37 @@
 Psql
 ####
 
-What is psql
-------------
+Qué es psql
+-----------
 
-`Psql` is the interactive terminal for working with Postgres. Theres an 
-abundance of flags available for use when working with psql, but lets focus
-on some of the most important ones, then how to connect:
+`Psql` es la terminal interactiva para trabajar con Postgres. Hay muchas
+opciones disponibles para usar cuando trabajas con psql, pero nos enfocaremos
+en los más importantes, como conectarse:
 
-- -h the host to connect to
-- -U the user to connect with
-- -P the port to connect to (default is 5432)
+- -h el host a conectarse
+- -U usuario de conexión
+- -P el puerto a conectarse (por defecto es 5432)
 
 .. code-block:: console
 
-   psql -h localhost -U username databasename
+   psql -h localhost -U usuario base_de_datos
 
-The other option is to use a full string and let psql parse it:
+La otra opción es usar una cadena de texto y dejar a psql que la traduzca:
 
 .. code-block:: console
 
     psql "dbname=dbhere host=hosthere user=userhere password=pwhere port=5432 sslmode=require"
 
-Once you've connected you can begin querying immediately. In addition to basic 
-queries you can also use certain commands. Running `\?` will give you a list 
-of all available commands, though a few key ones are called out the the tips 
-below.
+Una vez que estas conectado puedes empezar a consultar. A más de consultas
+básicas puedes usar ciertos comandos. Ejecutando `\?` te dará una lista de
+los comandos disponibles, piensa en algunas claves will give you a list 
+of all available commands, algunas palabras claves son utilizadas a más de los tips.
 
 Tips
 ----
 
-List tables in database
-~~~~~~~~~~~~~~~~~~~~~~~
+Listar tablas de la base de datos
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block:: console
 
@@ -43,8 +43,8 @@ List tables in database
    (1 row)
 
 
-Describe a table
-~~~~~~~~~~~~~~~~
+Describir una tabla
+~~~~~~~~~~~~~~~~~~~
 
 .. code-block:: console
 
