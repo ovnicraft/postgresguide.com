@@ -1,9 +1,9 @@
-Utilities
-=========
+Utilidades
+==========
 
-Once you've got Postgres setup and running theres several utilities to 
-familiarize yourself. Understanding these utilities will make you more 
-productive and help you make the most of your time with Postgres.
+Una ves que tengas configurado y corriendo Postgres hay varias utilidades theres several utilities to 
+con las que debes familizarizarte. Entendiendo que estas utilidades te harán
+más productivo y ayudarán a aprovechar tu tiempo con Postgres.
 
 
 .. toctree::
